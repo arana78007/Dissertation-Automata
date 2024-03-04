@@ -1,2 +1,3 @@
 # Dissertation-Automata
-. Python code for capital market bubbles cellular automata model. Refer to the full paper for a full description of the model.
+. A Cellular automaton model aimed at studying the formation of market extremities. Refer to the paper linked in the pdf below for a full model description.
+# INSERT THE LINK HERE AT END OF DISSERTATION
